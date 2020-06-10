@@ -1,6 +1,6 @@
 # Space Invaders
 My attempt at recreating the classic space invaders game in pure JavaScript.
-[\[PLAY HERE\]](https://tuhinshubhra.github.io/space-invaders-js/)
+[\[PLAY HERE\]](https://tuhinshubhra.github.io/Space-Invaders-js/)
 ### How to play
 - Use the cursor keys to navigate the spaceship
 - Use `[SPACE BAR]` to shoot
